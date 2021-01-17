@@ -1,0 +1,2 @@
+veri tabanı adını
+KurumsalDBYeni yap
